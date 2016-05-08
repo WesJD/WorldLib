@@ -62,6 +62,7 @@ Either put the source into your project or shade it in with Maven.
     ...
 </repositories>
 ```
+alternatively, you can download a jar [here](http://ci.buildstatic.net/job/WorldLib/).
 
 Hope you use this well.
 
