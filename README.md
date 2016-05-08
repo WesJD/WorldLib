@@ -47,9 +47,10 @@ Either put the source into your project or shade it in with Maven.
 <dependencies>
     <dependency>
         <groupId>me.wes</groupId>
-        <artifactId>WorldLib</artifactId>
+        <artifactId>worldlib</artifactId>
         <version>1.0-SNAPSHOT</version>
     </dependency>
+    ...
 </dependencies>
 
 <repositories>
@@ -58,6 +59,7 @@ Either put the source into your project or shade it in with Maven.
         <name>BuildStatic Repository</name>
         <url>http://serv.buildstatic.net/maven-repo</url>
     </repository>
+    ...
 </repositories>
 ```
 
